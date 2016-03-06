@@ -1,0 +1,68 @@
+body {
+	/*background-color: #69F0AE ; */
+}
+
+.navbar {
+
+	margin-bottom: 0px ;
+
+}
+.carousel {
+
+	padding-top:50px;
+}
+
+.jumbotron {
+	/*background-color: #808481 ;
+	color:#fff;
+*/
+
+}
+/*.glyphicon {
+	font-size:50px;
+	color: #4F4F4F ;
+}*/
+.footer {
+	margin-top: 40px; 
+	padding-top: 40px; 
+	background-color: #eee ;
+}
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+	background-color: #B7EFFD ;
+	color: #D70909 ;
+	}
+@media screen and (max-width: 768px) {
+	/*max-width 768 ตั้งแต่ 0-768
+	min-width 768 จาก 768-0*/
+	.carousel {
+	padding-top:150px;
+		}
+	.glyphicon-chevron-left {
+	font-size:20px;
+			}
+	.glyphicon-chevron-right{
+	font-size:20px;
+
+	}
+}	
+
+.rgisterbox {
+	padding-top:  50px; 
+}
+
+.colorgraph {
+  height: 5px;
+  border-top: 0;
+  background: #c4e17f;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+
+
+
+	
